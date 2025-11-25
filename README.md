@@ -1,6 +1,7 @@
 # Simon-Game
 ## Introduction
-Simon Game is a classic memory game where players must repeat a sequence of colors in the correct order. As the game progresses, the sequence becomes longer and more challenging.
+Simon Game is developed for learning Git workflows.
+ where players must repeat a sequence of colors in the correct order. As the game progresses, the sequence becomes longer and more challenging.
 
 ## Game Rules
 1. The game starts by highlighting a random color in the sequence.
