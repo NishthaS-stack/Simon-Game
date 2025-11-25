@@ -14,3 +14,4 @@ Simon Game is a classic memory game where players must repeat a sequence of colo
 - Increasing difficulty as the game progresses.
 - Score tracking.
 - Reset button to start a new game.
+this project is part of my college project and assignment
